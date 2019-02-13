@@ -1,1 +1,1 @@
-# udacity-dand-explore-weather-trends
+# Udacity Data Analyst Nanodegree Explore Weather Trends Project
